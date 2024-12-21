@@ -22,9 +22,25 @@ The Practicum combines instructor-led morning lectures with collaborative lab wo
 
 ---
 
+## Instructors  
+Meet the dedicated instructors for the **RISE Data Science Practicum Track** who guide students through this immersive learning experience:  
+
+- **Course Designer and Morning Lecturer**: *[Patrick F. Bloniasz, Computational Neuroscience PhD Candidate]*  
+  - **Expertise**: [Brief description of their expertise and background]  
+  - **Contact**: [pblonias [at] bu.edu]  
+
+- **Lab Lead Lecturer**: *[Name, Title]*  
+  - **Expertise**: [Brief description of their expertise and background]  
+  - **Contact**: [Email or other contact details]  
+
+- **Teaching Fellow**: *[Name, Title]*  
+  - **Expertise**: [Brief description of their expertise and background]  
+  - **Contact**: [Email or other contact details]
+
+---
+
 ## Repository Structure  
 Here's what you can find in this repository:  
-
 
 ---
 
