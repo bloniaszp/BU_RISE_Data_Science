@@ -46,7 +46,7 @@ Meet the dedicated instructors for the **RISE Data Science Practicum Track** who
 Follow these steps to set up your tools.
 
 ### 1. Create a GitHub Account  
-If you don’t have one already, sign up here:  
+If you don’t have one already, sign up here (send username to Patrick at pblonias ( at ) bu.edu with your BU email):  
 [GitHub Signup](https://github.com/signup)
 
 ### 2. Install Anaconda  
