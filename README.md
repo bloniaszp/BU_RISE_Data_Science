@@ -64,6 +64,27 @@ You’ll need Git and the GitHub extension for this class.
 - **Download:** https://git-scm.com/downloads
 - **Getting Started:** [YouTube: Git & GitHub in VS Code](https://www.youtube.com/watch?v=i_23KUAEtUM)
 
+### 5. Install mamba (a faster conda frontend)
+```bash
+# install mamba into your base conda environment
+conda install mamba -n base -c conda-forge -y
+```
+
+### 6. Download & Open the Course Notebook
+
+We’ll be working on the notebook hosted in Colab.
+
+  1. Download the notebook. Go to:
+  https://colab.research.google.com/drive/11UIvGczmvhcR1YdMjXfwDW_iwRbpBQyM
+
+  2. In Colab’s menu: File → Download → Download .ipynb and save it into a folder on your machine.
+  3. Open in VS Code: In VS Code, choose File → Open Folder…, select the folder containing your .ipynb.
+  4. Click the notebook file in the Explorer panel; VS Code will render it inline.
+
+Make sure your interpreter (bottom-right corner) is set to an environment with jupyter installed.
+
+
+
 ---
 
 
