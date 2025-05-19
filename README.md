@@ -13,10 +13,12 @@ In this course, students will:
 ---
 
 ## RISE Practicum  
-The **RISE Practicum** provides students with hands-on experience in conducting computational research in one of three key areas:  
-1. **Computational modeling** (e.g., time series forecasting).  
-2. **Statistical Method Benchmarking**.  
-3. **Scientific Software Development**.  
+The **RISE Practicum** provides students with hands-on project/research experience in in one of four key areas:  
+1. **Time Series Analysis and/or Prediction**
+2. **Biostatistics-Style Analysis** 
+3. **Scientific Software Package Development** 
+4. **Teaching a Statistical Technique**
+
 
 The Practicum combines instructor-led morning lectures with collaborative lab work in the afternoon. Students will present their research findings at the **RISE Poster Symposium** at the program's conclusion.  
 
@@ -39,13 +41,31 @@ Meet the dedicated instructors for the **RISE Data Science Practicum Track** who
 
 ---
 
-## Repository Structure  
-Here's what you can find in this repository:  
+## Getting Started
+
+Follow these steps to set up your tools.
+
+### 1. Create a GitHub Account  
+If you don’t have one already, sign up here:  
+[GitHub Signup](https://github.com/signup)
+
+### 2. Install Anaconda  
+Anaconda bundles Python (≥ 3.7) and most scientific packages you’ll need.  
+- **Download:** https://www.anaconda.com/download/success  
+- **Quick Tutorial:** [YouTube: Installing Anaconda](https://www.youtube.com/watch?v=Kn5DLGUP9tE)
+
+### 3. Install VS Code  
+Our recommended editor with excellent Python support.  
+- **Download:** https://code.visualstudio.com/download  
+- **Python Extension:** After installation, search for and install the “Python” extension in the Extensions view.  
+
+### 4. Installing Git (if you haven't before) and using GitHub
+You’ll need Git and the GitHub extension for this class.
+- **Download:** https://git-scm.com/downloads
+- **Getting Started:** [YouTube: Git & GitHub in VS Code](https://www.youtube.com/watch?v=i_23KUAEtUM)
 
 ---
 
-## Installation  
-To run the code and work through the examples, you'll need to have Python (>=3.7) installed, along with the required dependencies.  
 
 
 
